@@ -11,7 +11,8 @@ The objective of these projects was to gain hands-on experience in designing, de
 
 An AI-powered language translation application that enables users to translate text between multiple languages using translation APIs.
 
-Features:
+➡️Features:
+
 Multi-language translation support,
 Source and target language selection,
 Real-time translation results,
@@ -27,7 +28,7 @@ NLP Libraries.
 
 An intelligent chatbot designed to answer frequently asked questions using Natural Language Processing techniques.
 
-Features:
+➡️Features:
 
 Interactive conversational interface,
 FAQ-based question answering,
@@ -45,7 +46,7 @@ Streamlit.
 
 A deep learning-based music generation system capable of learning musical patterns and generating original melodies.
 
-Features:
+➡️Features:
 
 AI-generated music sequences,
 MIDI file generation,
@@ -62,7 +63,7 @@ MIDI Processing.
 
 A real-time computer vision system that detects and tracks objects in videos using advanced deep learning models.
 
-Features:
+➡️Features:
 
 Real-time object detection,
 Multi-object tracking,
