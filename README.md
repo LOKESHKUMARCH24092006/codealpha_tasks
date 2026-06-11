@@ -1,6 +1,7 @@
 🤖 CodeAlpha Artificial Intelligence Internship Projects
 
 📌 Overview
+
 This repository contains the Artificial Intelligence projects completed as part of the CodeAlpha AI Internship Program. The projects demonstrate practical applications of Artificial Intelligence, Natural Language Processing, Deep Learning, Computer Vision, and Generative AI.
 The objective of these projects was to gain hands-on experience in designing, developing, and deploying AI-powered solutions for real-world applications.
 
