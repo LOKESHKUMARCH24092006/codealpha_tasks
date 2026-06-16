@@ -83,5 +83,5 @@ This project focuses on generating music using Artificial Intelligence and Deep 
 
 ---
 
-## 📜 License
+##  License
 This project is developed for educational and research purposes.
