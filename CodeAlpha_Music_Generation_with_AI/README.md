@@ -1,11 +1,11 @@
-# 🎵 Music Generation with AI
+# Music Generation with AI
 
-## 📌 Overview
+##  Overview
 This project focuses on generating music using Artificial Intelligence and Deep Learning techniques. The model learns musical patterns from MIDI datasets and creates new melodies by predicting note sequences. The generated music can be converted back into MIDI format and played or saved as audio files.
 
 ---
 
-## 🚀 Features
+##  Features
 - Collect and process MIDI music datasets
 - Extract and encode musical note sequences
 - Train deep learning models for music generation
@@ -15,7 +15,7 @@ This project focuses on generating music using Artificial Intelligence and Deep 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -26,7 +26,7 @@ This project focuses on generating music using Artificial Intelligence and Deep 
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Collection
 - Gather MIDI files from classical, jazz, piano, or other music datasets.
@@ -57,14 +57,14 @@ This project focuses on generating music using Artificial Intelligence and Deep 
 
 ---
 
-## 📊 Expected Output
+##  Expected Output
 - AI-generated melodies and musical compositions
 - MIDI files containing newly created music
 - Visualizations of training performance and loss curves
 
 ---
 
-## ▶️ Future Enhancements
+##  Future Enhancements
 - Multi-instrument music generation
 - Genre-specific music creation
 - Real-time music generation
@@ -73,7 +73,7 @@ This project focuses on generating music using Artificial Intelligence and Deep 
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 - Deep Learning for Sequential Data
 - Recurrent Neural Networks (RNNs)
 - LSTM Networks
