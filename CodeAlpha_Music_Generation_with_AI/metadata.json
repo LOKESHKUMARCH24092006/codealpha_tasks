@@ -1,0 +1,6 @@
+{
+  "name": "AI Music Generation Studio",
+  "description": "An interactive AI playground to load, preprocess, train and generate music using LSTM, GAN, and Gemini AI. Includes visual piano-rolls, custom synthesizer engines, and MIDI exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
