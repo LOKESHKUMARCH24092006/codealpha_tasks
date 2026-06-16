@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Sandbox",
+  "description": "An interactive playground to generate LinkedIn job descriptions and customized interview guides from raw notes using Gemini, featuring deep reasoning and a companion coach chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
